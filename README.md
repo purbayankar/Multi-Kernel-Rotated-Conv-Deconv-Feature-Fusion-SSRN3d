@@ -8,7 +8,31 @@ This repository contains a PyTorch implementation of modified version of SSRN 3d
 ## Results
 
 ### Indian Pines (IP) dataset
+<img src="figures/IN_.png"/>  <img src="figures/IN_gt.png"/><br/>
+Fig 1. (a)Classification map, (b)Ground truth label<br/>
+
+mean_OA ± std_OA is: 0.9809651365721012 ± 0.0013787319088812515<br/>
+mean_AA ± std_AA is: 0.9340486216787586 ± 0.0032418305422038463<br/>
+mean_KAPPA ± std_KAPPA is: 0.9783164461210337 ± 0.0015760847465849112<br/>
+
+10% samples were used for training.
 
 ### University of Pavia (UP) dataset
+<img src="figures/UP_.png"/>  <img src="figures/UP_gt.png"/><br/>
+Fig 1. (a)Classification map, (b)Ground truth label<br/>
+
+mean_OA ± std_OA is: 0.9899801355456882 ± 0.0025362718007885376<br/>
+mean_AA ± std_AA is: 0.9845783986515291 ± 0.0036271636518355483<br/>
+mean_KAPPA ± std_KAPPA is: 0.9867305543047306 ± 0.0033544515252394813<br/>
+
+10% samples were used for training.
 
 ### Salinas Scene (SS) dataset
+img src="figures/SV_.png" width="50" height="150"/>  <img src="figures/SV_gt.png" width="50" height="150"/><br/>
+Fig 1. (a)Classification map, (b)Ground truth label<br/>
+
+mean_OA ± std_OA is: 0.9622542796691672 ± 0.003240080275321495<br/>
+mean_AA ± std_AA is: 0.9846370620302208 ± 0.0020065630930044772<br/>
+mean_KAPPA ± std_KAPPA is: 0.9579490426872841 ± 0.0036159979607129932<br/>
+
+10% samples were used for training.
