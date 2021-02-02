@@ -18,7 +18,7 @@ mean_KAPPA ± std_KAPPA is: 0.9783164461210337 ± 0.0015760847465849112<br/>
 10% samples were used for training.
 
 ### University of Pavia (UP) dataset
-<img src="figures/UP_.png"/>  <img src="figures/UP_gt.png"/><br/>
+<img src="figures/UP_.png" width="250" height="350"/>  <img src="figures/UP_gt.png" width="250" height="350"/><br/>
 Fig 1. (a)Classification map, (b)Ground truth label<br/>
 
 mean_OA ± std_OA is: 0.9899801355456882 ± 0.0025362718007885376<br/>
