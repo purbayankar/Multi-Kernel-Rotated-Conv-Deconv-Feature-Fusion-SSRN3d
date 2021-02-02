@@ -28,7 +28,7 @@ mean_KAPPA ± std_KAPPA is: 0.9867305543047306 ± 0.0033544515252394813<br/>
 10% samples were used for training.
 
 ### Salinas Scene (SS) dataset
-img src="figures/SV_.png" width="50" height="150"/>  <img src="figures/SV_gt.png" width="50" height="150"/><br/>
+<img src="figures/SV_.png" width="250" height="350"/>  <img src="figures/SV_gt.png" width="250" height="350"/><br/>
 Fig 1. (a)Classification map, (b)Ground truth label<br/>
 
 mean_OA ± std_OA is: 0.9622542796691672 ± 0.003240080275321495<br/>
